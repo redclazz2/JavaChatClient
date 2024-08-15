@@ -1,0 +1,15 @@
+clientjava/Infrastructure/Implementation/ClientSocket.class
+clientjava/Infrastructure/Interface/IClientSocket.class
+clientjava/Infrastructure/Implementation/ClientProcess.class
+clientjava/Domain/Port/ChatRouterPort.class
+clientjava/Infrastructure/Model/Transaction.class
+clientjava/Domain/Port/ChatControllerPort.class
+clientjava/Helper/Formatter/Formatter.class
+clientjava/Helper/Logger/Logger.class
+clientjava/Domain/Port/ChatDataPort.class
+clientjava/Helper/Logger/LoggerLevel.class
+clientjava/Infrastructure/Interface/IClientProcess.class
+clientjava/Views/ChatGUI.class
+clientjava/Domain/Entity/ChatMessage.class
+clientjava/Infrastructure/Router/ChatRouter.class
+clientjava/Infrastructure/Controller/ChatController.class

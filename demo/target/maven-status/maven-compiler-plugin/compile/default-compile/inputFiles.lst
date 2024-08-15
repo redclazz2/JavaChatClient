@@ -1,0 +1,16 @@
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Domain/Port/ChatDataPort.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Infrastructure/Interface/IClientProcess.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Infrastructure/Router/ChatRouter.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Infrastructure/Implementation/ClientProcess.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Main.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Views/ChatGUI.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Domain/Port/ChatRouterPort.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Helper/Logger/Logger.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Domain/Entity/ChatMessage.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Domain/Port/ChatControllerPort.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Helper/Formatter/Formatter.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Infrastructure/Interface/IClientSocket.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Infrastructure/Model/Transaction.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Infrastructure/Controller/ChatController.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Helper/Logger/LoggerLevel.java
+/home/sebastian/Desktop/JavaClient/demo/src/main/java/clientjava/Infrastructure/Implementation/ClientSocket.java
